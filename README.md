@@ -4,22 +4,26 @@ Please follow the instructions below **carefully** to ensure your submission is 
 
 ---
 
-## 📌 Repository Forking Instructions
+## Submission Instructions
 
 1. **Fork this repository** to your GitHub account.
 2. **Rename your fork** to the following format:
-   Planckd2025-<TeamName>
-   As an example, fork made by team Qubiteer should look like Planckd2025-<Qubiteer>
+   `Planckd2025-<TeamName>`
+   As an example, the fork made by team Qubiteers should look like `Planckd2025-<Qubiteers>`
 3. **Do NOT modify or remove any of the existing top-level folders.**
 
 Your work must be placed **only** inside the `submission/` directory.
 
-## 📁 Submission Folder Structure
+## Submission Folder Structure
 
 Inside your fork, place all final work in:
 
-submission/
-├── code/ # Notebooks, scripts, trained models, etc.
-├── results/ # Plots, tables, logs, generated samples, etc. (optional)
-├── report.pdf # Final PDF report (required)
-└── README.md # Summary + team details (required)
+submission/ <br>
+├── code/ # Notebooks, scripts, trained models, etc.<br>
+├── results/ # Plots, tables, logs, generated samples, etc. (optional)<br>
+├── report.pdf # Final PDF report (required)<br>
+└── README.md # Summary + team details (required)<br>
+
+## Final Report
+
+Report should contain the team name and the names of all the team members. Submitted code should be clear and reproducable, with instructions to run the code added in the report.
